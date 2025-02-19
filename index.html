@@ -314,7 +314,15 @@
     });
   }
 </script>
-
+<div id="waline"></div>
+<script src="https://cdn.jsdelivr.net/npm/@waline/client"></script>
+<script>
+  Waline.init({
+    el: '#waline',
+    serverURL: 'https://pl-sooty.vercel.app',
+    lang: 'zh-CN'
+  });
+</script>
         </div>
           
   
