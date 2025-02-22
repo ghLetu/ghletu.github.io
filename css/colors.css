@@ -1,0 +1,20 @@
+:root {
+  --body-bg-color: $body-bg-color;
+  --content-bg-color: $content-bg-color;
+  --card-bg-color: $card-bg-color;
+  --text-color: $text-color;
+  --blockquote-color: $blockquote-color;
+  --link-color: $link-color;
+  --link-hover-color: $link-hover-color;
+  --brand-color: $brand-color;
+  --brand-hover-color: $brand-hover-color;
+  --table-row-odd-bg-color: $table-row-odd-bg-color;
+  --table-row-hover-bg-color: $table-row-hover-bg-color;
+  --menu-item-bg-color: $menu-item-bg-color;
+  --btn-default-bg: $btn-default-bg;
+  --btn-default-color: $btn-default-color;
+  --btn-default-border-color: $btn-default-border-color;
+  --btn-default-hover-bg: $btn-default-hover-bg;
+  --btn-default-hover-color: $btn-default-hover-color;
+  --btn-default-hover-border-color: $btn-default-hover-border-color;
+}
