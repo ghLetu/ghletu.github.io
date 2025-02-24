@@ -8,9 +8,36 @@
       <link href="/2025/02/17/hello-world/"/>
       <url>/2025/02/17/hello-world/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>title: My blog<br>date: 2025-01-31 18:00:00<br>tags:</p><ul><li>博客<br>  categories:</li><li>个人<br>  cover: &#x2F;img&#x2F;001.jpg   # 你可以自定义封面图</li></ul><p>欢迎来到我的博客</p>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初次搭建个人博客</title>
+      <link href="/2025/02/01/My-New-Post/"/>
+      <url>/2025/02/01/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[<p>这是我第一次搭建个人博客，记录下这个过程和心情。通过这次搭建，我学习了如何使用 Hexo 这个静态博客框架，配置主题，上传到 GitHub Pages，并进行个性化设置。</p><p>搭建博客的过程其实并不复杂，尤其是有了 Hexo 这样的框架，它提供了很多简单易用的功能，让博客的搭建变得高效。除了基本的博客页面展示，我还添加了自定义的背景和头像，想让博客更加个性化。</p><p>这个博客将是我分享日常点滴的地方。我计划在这里记录下我日常生活中的点滴思考、一些技术分享以及对未来的展望。希望通过这个平台与大家分享我的成长和学习。</p><p>随着时间的推移，我会不断优化这个博客，希望它能成为我的个人空间，记录和分享更多的故事。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
       
     </entry>
     
