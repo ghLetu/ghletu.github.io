@@ -1,16 +1,27 @@
- #recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post {
-    background: var(--light_bg_color)
+#recent-posts>.recent-post-item,
+.layout_page>div:first-child:not(.recent-posts),
+.layout_post>#page,
+.layout_post>#post,
+.read-mode .layout_post>#post {
+  background: var(--light_bg_color);
 }
-
 #aside-content .card-widget {
-    background: var(--light_bg_color)
+  background: var(--light_bg_color);
 }
-
 #footer {
-    background: rgba(255,255,255,.15);
-    color: #000;
-    border-top-right-radius: 20px;
-    border-top-left-radius: 20px;
-    backdrop-filter: saturate(100%) blur(5px)
+  background: rgba(255,255,255,0.15);
+  color: #000;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  backdrop-filter: saturate(100%) blur(5px);
 }
-
+/* 背景图设置 */
+body {
+  background-image: url("/img/bj.jpg"); /* 替换为你自己的背景图路径 */
+  background-size: cover; /* 让背景图覆盖整个页面 */
+  background-position: center; /* 背景图居中 */
+  background-attachment: fixed; /* 固定背景图 */
+  background-repeat: no-repeat; /* 防止背景图重复 */
+  height: 100vh; /* 使背景图始终覆盖整个屏幕高度 */
+  width: 100%; /* 背景图宽度为100% */
+}
