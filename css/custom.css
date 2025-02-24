@@ -25,3 +25,8 @@ body {
   height: 100vh; /* 使背景图始终覆盖整个屏幕高度 */
   width: 100%; /* 背景图宽度为100% */
 }
+.avatar img {
+  display: block;
+  width: 100px; /* 根据需要调整大小 */
+  height: 100px; /* 根据需要调整大小 */
+}
