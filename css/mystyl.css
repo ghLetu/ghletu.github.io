@@ -1,1 +1,28 @@
 
+.aplayer {
+  height: 80px;  /* 设置播放器的高度 */
+  width: 100%;   /* 播放器宽度占满 */
+  margin-top: 20px; /* 给播放器上方留点空隙 */
+}
+
+
+/* 修改新闻标题样式 */
+.news-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/* 修改新闻内容样式 */
+.news-content {
+  font-size: 16px;
+  color: #666666;
+}
+
+/* 设置新闻块的边框和背景色 */
+.news-item {
+  border: 1px solid #dddddd;
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 10px;
+}
