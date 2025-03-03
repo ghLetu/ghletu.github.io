@@ -11,7 +11,7 @@
 
 
 /* 为相册页面设置横幅 */
-.page-album .page-header {
+.page-gallery .page-header {
   background-image: url('/img/xc.jpg');
   background-size: cover;
   background-position: center;
@@ -33,7 +33,7 @@
 }
 
 /* 为分类页面设置横幅 */
-.page-category .page-header {
+.page-categories .page-header {
   background-image: url('/img/fl.jpg');
   background-size: cover;
   background-position: center;
@@ -44,7 +44,7 @@
 }
 
 /* 为链接页面设置横幅 */
-.page-links .page-header {
+.page-link .page-header {
   background-image: url('/img/lj.jpg');
   background-size: cover;
   background-position: center;
