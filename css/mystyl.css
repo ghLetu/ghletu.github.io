@@ -1,19 +1,1 @@
-/* 横幅样式 */
-.banner {
-  width: 100%;
-  height: 300px;           /* 设置一个合适的高度，可以根据需要调整 */
-  overflow: hidden;        /* 防止内容溢出 */
-}
-
-.banner img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;       /* 确保图片填充整个容器，保持比例 */
-  display: block;          /* 去掉图片下方空隙 */
-}
-
-/* 清除页面其他部分的默认间距 */
-.page {
-  margin-top: 0;
-}
 
