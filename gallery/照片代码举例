@@ -1,0 +1,9 @@
+#<div class="gallery-group-main">
+#{% galleryGroup name description link img-url %}
+#{% galleryGroup name description link img-url %}     ----->index
+#{% galleryGroup name description link img-url %}
+#</div>
+
+{% gallery [lazyload],[rowHeight],[limit] %}
+markdown 图片格式                                                    ----->picture
+{% endgallery %}
